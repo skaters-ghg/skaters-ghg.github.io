@@ -3,13 +3,12 @@ layout: page
 title: Welcome to SKATERS
 permalink: /
 ---
-<img src="assets/images/skaters-logo.png" alt="SKATERS header" style="display: block; margin-left: auto; margin-right: auto; width: 200px;"/>
-<!-- ![SKATERS header](assets/images/skaters-logo.png) -->
+<img src="assets/images/skaters-logo.png" alt="SKATERS header" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 
 <!-- center the header title -->
 <div style="text-align: center;">
-  <p><em>Scientists for Knowledge of ATmospheric invERSions</em></p>
+  <p><em>(Scientists for Knowledge of ATmospheric invERSions)</em></p>
 </div>
 
 **SKATERS** is an open, collaborative community for scientists working on **inverse modeling of atmospheric trace gases**.  
