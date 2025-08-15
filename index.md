@@ -3,6 +3,7 @@ layout: page
 title: Welcome to SKATERS
 permalink: /
 ---
+![SKATERS header](assets/images/skaters-logo.png)
 
 # SKATERS
 _**S**cientists for **K**nowledge of **AT**mospheric inv**ERS**ions_
