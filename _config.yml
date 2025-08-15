@@ -12,9 +12,9 @@ markdown: kramdown
 timezone: America/New_York
 
 # Settings helpful for an org info site
-author:
-  name: "SKATERS"
-  email: "email@example.org"
+# author:
+#   name: "SKATERS"
+#   email: "email@example.org"
 
 # Exclude non-site files from build
 exclude:
