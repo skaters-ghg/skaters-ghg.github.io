@@ -5,7 +5,6 @@ minima:
   skin: auto
 # Show About and Contact in the top navigation
 header_pages:
-  - about.md
   - contact.md
 
 markdown: kramdown
