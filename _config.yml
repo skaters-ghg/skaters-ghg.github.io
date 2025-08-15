@@ -1,0 +1,24 @@
+title: "SKATERS"
+description: "Scientists for Knowledge of ATmospheric invERSions"
+theme: minima
+minima:
+  skin: auto
+# Show About and Contact in the top navigation
+header_pages:
+  - about.md
+  - contact.md
+
+markdown: kramdown
+# Optional: set your timezone (adjust if needed)
+timezone: America/New_York
+
+# Settings helpful for an org info site
+author:
+  name: "SKATERS"
+  email: "email@example.org"
+
+# Exclude non-site files from build
+exclude:
+  - README.md
+  - "*.zip"
+  - ".gitignore"
